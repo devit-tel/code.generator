@@ -1,0 +1,16 @@
+{
+  "name": "code.generator",
+  "version": "0.0.1",
+  "description": "code generator for Sendit APIs",
+  "main": "app.js",
+  "scripts": {
+    "start": "export NODE_PATH=. node app.js"
+  },
+  "author": "Sendit Thailand",
+  "license": "No License",
+  "dependencies": {
+    "barcode": "^0.1.0",
+    "express": "^4.14.0",
+    "qr-image": "^3.1.0"
+  }
+}
