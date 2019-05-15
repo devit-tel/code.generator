@@ -7,7 +7,7 @@
     "start": "export NODE_PATH=. node app.js"
   },
   "author": "Sendit Thailand",
-  "license": "No License",
+  "license": "MIT",
   "dependencies": {
     "barcode": "^0.1.0",
     "express": "^4.14.0",
